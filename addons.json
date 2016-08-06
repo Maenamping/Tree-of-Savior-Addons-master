@@ -1,0 +1,196 @@
+[
+	{
+		"name" : "Better Quest",
+		"file" : "betterquest",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Adds a checkbox in the quest window to display all eligible quests.",
+		"tags" : [
+			"ui",
+			"quest"
+		]
+	},
+	{
+		"name" : "Channel Surfer",
+		"file" : "channelsurfer",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Removes the confirmation box when changing channels, displays more channels in the dropdown box, and adds buttons to change channels easily.",
+		"tags" : [
+			"channel"
+		]
+	},
+	{
+		"name" : "Developer Console",
+		"file" : "developerconsole",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "A developer console to execute commands easily. Executes lua commands that you type in, creates a print() method that outputs text to the console, and adds a UI debug button. Open it with /dev.",
+		"tags" : [
+			"dev",
+			"developer",
+			"console",
+			"lua",
+			"ui"
+		]
+	},
+	{
+		"name" : "Experience Card Calculator",
+		"file" : "expcardcalculator",
+		"extension" : "ipf",
+		"releaseTag" : "toyhammer",
+		"fileVersion" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "Automatically calculates your card level based on the experience cards you have in your inventory.",
+		"tags" : [
+			"experience",
+			"card"
+		]
+	},
+	{
+		"name" : "Experience Viewer",
+		"file" : "expviewer",
+		"extension" : "ipf",
+		"fileVersion" : "v1.2.0",
+		"releaseTag" : "cheminissword",
+		"unicode" : "⛄",
+		"description" : "Displays various experience values such as current experience, required experience, current percent, experience gained on last kill, kills til next level, experience per hour, and estimated time until level up.",
+		"tags" : [
+			"experience",
+			"ui"
+		]
+	},
+	{
+		"name" : "Guildmates",
+		"file" : "guildmates",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Enhances the guild window by displaying a player's level, showing their character name, and adding more context menu options such as party request and character info.",
+		"tags" : [
+			"guild"
+		]
+	},
+	{
+		"name" : "Hide Maxed Attributes",
+		"file" : "hidemaxedattributes",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Hides attributes that are already max level in the attribute trainer window.",
+		"tags" : [
+			"ui",
+			"skills",
+			"attributes"
+		]
+	},
+	{
+		"name" : "Map Fog Viewer",
+		"file" : "mapfogviewer",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Displays the fog on the map as red tiles instead of the hard to see default fog. Makes exploration really easy!",
+		"tags" : [
+			"map",
+			"minimap",
+			"fog",
+			"exploration"
+		]
+	},
+	{
+		"name" : "Monster Frames",
+		"file" : "monsterframes",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Displays detailed monster information on the monster frames including HP, armor, element, race, size, weakness, and kill count.",
+		"tags" : [
+			"ui",
+			"frames",
+			"monster",
+			"hp",
+			"armor",
+			"element",
+			"attribute",
+			"size",
+			"race",
+			"weakness"
+		]
+	},
+	{
+		"name" : "Monster Tracker",
+		"file" : "monstertracker",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Keeps track of the monsters you kill and tells you when you've killed the proper amount.",
+		"tags" : [
+			"ui",
+			"journal",
+			"kill count",
+			"wings of vibora"
+		]
+	},
+	{
+		"name" : "Played",
+		"file" : "played",
+		"extension" : "ipf",
+		"releaseTag" : "gladius",
+		"fileVersion" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "Displays time played when you enter /timeplayed.",
+		"tags" : [
+			"played",
+			"time"
+		]
+	},
+	{
+		"name" : "Population",
+		"file" : "population",
+		"extension" : "ipf",
+		"releaseTag" : "ringpommelsaber",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Type /!who in chat to display the population. Doesn't count people in instances (dungeons).",
+		"tags" : [
+			"population"
+		]
+	},
+	{
+		"name" : "Show HP Bars",
+		"file" : "showhpbars",
+		"extension" : "ipf",
+		"releaseTag" : "ledas",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Created a command to force the HP bars to show. This is useful in places like Earth Tower where you have to protect an object and often times the HP bar doesn't even show up. The command is /!showhpbars. Assign this to a macro slot. You have to use it again whenever you want to see the updated HP bar for now.",
+		"tags" : [
+			"population"
+		]
+	},
+	{
+		"name" : "Show Invested Stat Points",
+		"file" : "showinvestedstatpoints",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Shows the amount of invested stat points you have in each stat at the bottom of the status window.",
+		"tags" : [
+			"ui",
+			"stats"
+		]
+	}
+]
